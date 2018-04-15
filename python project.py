@@ -30,7 +30,7 @@ def last():                        #Function to traverse last record
     s4.set(m[3])
     s5.set(m[4])
     count=k
-def addrec():                   #Function to add new record
+def addrec():                   #Function to add a new record
     flag=0
     s6.set("")
     f=open("python2.txt","r")
